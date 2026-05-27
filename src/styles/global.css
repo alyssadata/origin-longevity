@@ -73,20 +73,20 @@ img {
 /* ---- Header ---- */
 
 .site-header {
-  padding: 2rem 0 0;
+  padding: 2.5rem 0 0;
   margin-bottom: 1rem;
 }
 
 .site-header__brand {
   display: flex;
   align-items: center;
-  gap: 10px;
-  margin-bottom: 4px;
+  gap: 12px;
+  margin-bottom: 6px;
 }
 
 .site-header__logo {
-  width: 34px;
-  height: 34px;
+  width: 42px;
+  height: 42px;
   border-radius: 50%;
   background: var(--color-accent);
   display: flex;
@@ -94,21 +94,21 @@ img {
   justify-content: center;
   color: white;
   font-family: var(--font-display);
-  font-size: 18px;
+  font-size: 22px;
   line-height: 1;
 }
 
 .site-header__name {
   font-family: var(--font-display);
-  font-size: 22px;
+  font-size: 28px;
   color: var(--color-text);
   letter-spacing: -0.3px;
 }
 
 .site-header__tagline {
-  font-size: 13px;
+  font-size: 14px;
   color: var(--color-text-secondary);
-  padding-left: 44px;
+  padding-left: 54px;
 }
 
 /* ---- Nav ---- */
@@ -147,6 +147,7 @@ img {
 /* ---- Featured Card ---- */
 
 .featured-card {
+  display: block;
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: 12px;
@@ -280,6 +281,8 @@ img {
 
 .hub-card__icon {
   font-size: 22px;
+  font-family: var(--font-display);
+  font-weight: 600;
   margin-bottom: 6px;
   display: block;
 }
