@@ -1,0 +1,77 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const allArticles = await getCollection('articles', ({ data }) => !data.draft);
+const featured = allArticles.find(a => a.data.featured);
+const latest = allArticles.filter(a => !a.data.featured).slice(0, 10);
+
+const topics = [
+  { slug: 'supplements', label: 'Supplements', icon: '&#9883;' },
+  { slug: 'biomarkers', label: 'Biomarkers', icon: '&#9829;' },
+  { slug: 'protocols', label: 'Protocols', icon: '&#9881;' },
+  { slug: 'mechanisms', label: 'Mechanisms', icon: '&#9878;' },
+  { slug: 'testing', label: 'Testing', icon: '&#9874;' },
+];
+
+function articleCount(topic: string) {
+  return allArticles.filter(a => a.data.topic === topic).length;
+}
+
+function articleHref(article: any) {
+  const parts = article.id.replace(/\.md$/, '').split('/');
+  const slug = parts[parts.length - 1];
+  return `/${article.data.topic}/${slug}/`;
+}
+---
+
+<Base
+  title="Origin Longevity"
+  description="Finding the core signal in longevity science. Supplements, biomarkers, protocols, and mechanisms of aging."
+>
+  <Header />
+  <main class="container">
+    {featured && (
+      <a href={articleHref(featured)} class="featured-card">
+        <span class="featured-card__label">Featured guide</span>
+        <h2 class="featured-card__title">{featured.data.title}</h2>
+        <p class="featured-card__desc">{featured.data.description}</p>
+        <span class="featured-card__meta">{featured.data.readTime} &middot; Updated {featured.data.updated}</span>
+      </a>
+    )}
+
+    <h2 class="section-label">Latest articles</h2>
+    <div>
+      {latest.map(article => (
+        <ArticleCard
+          title={article.data.title}
+          description={article.data.description}
+          topic={article.data.topic}
+          readTime={article.data.readTime}
+          href={articleHref(article)}
+        />
+      ))}
+    </div>
+
+    <div style="margin-top: 3rem;">
+      <h2 class="section-label">Topic hubs</h2>
+      <div class="hubs-grid">
+        {topics.map(t => (
+          <a href={`/${t.slug}/`} class="hub-card">
+            <span
+              class="hub-card__icon"
+              style={`color: var(--color-${t.slug});`}
+              set:html={t.icon}
+            />
+            <span class="hub-card__name">{t.label}</span>
+            <span class="hub-card__count">{articleCount(t.slug)} articles</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </main>
+  <Footer />
+</Base>

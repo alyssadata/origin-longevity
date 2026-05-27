@@ -1,0 +1,51 @@
+---
+import Base from '../../layouts/Base.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const pathname = Astro.url.pathname.replace(/\//g, '');
+const topic = pathname;
+const label = topic.charAt(0).toUpperCase() + topic.slice(1);
+const articles = await getCollection('articles', ({ data }) => !data.draft && data.topic === topic);
+
+function articleHref(article: any) {
+  const parts = article.id.replace(/\.md$/, '').split('/');
+  const slug = parts[parts.length - 1];
+  return `/${article.data.topic}/${slug}/`;
+}
+
+const descriptions: Record<string, string> = {
+  supplements: 'Evidence reviews of longevity supplements: NAD+ precursors, senolytics, adaptogens, and more.',
+  biomarkers: 'How to measure biological aging: epigenetic clocks, blood panels, and functional assessments.',
+  protocols: 'Actionable longevity protocols backed by research: exercise, fasting, sleep, and recovery.',
+  mechanisms: 'The biology of aging explained: mitochondria, senescence, telomeres, and cellular pathways.',
+  testing: 'Lab tests and diagnostics for tracking healthspan: what to order, optimal ranges, and interpretation.',
+};
+---
+
+<Base
+  title={`${label} | Origin Longevity`}
+  description={descriptions[topic] || ''}
+>
+  <Header activeTopic={topic} />
+  <main class="container">
+    <div class="article-header" style="border-bottom: none; margin-bottom: 1.5rem;">
+      <h1 class="article-header__title">{label}</h1>
+      <p class="article-header__desc">{descriptions[topic]}</p>
+    </div>
+    <div>
+      {articles.map(article => (
+        <ArticleCard
+          title={article.data.title}
+          description={article.data.description}
+          topic={article.data.topic}
+          readTime={article.data.readTime}
+          href={articleHref(article)}
+        />
+      ))}
+    </div>
+  </main>
+  <Footer />
+</Base>

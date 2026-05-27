@@ -1,0 +1,31 @@
+---
+interface Props {
+  activeTopic?: string;
+}
+
+const { activeTopic } = Astro.props;
+
+const topics = [
+  { slug: 'supplements', label: 'Supplements' },
+  { slug: 'biomarkers', label: 'Biomarkers' },
+  { slug: 'protocols', label: 'Protocols' },
+  { slug: 'mechanisms', label: 'Mechanisms' },
+  { slug: 'testing', label: 'Testing' },
+];
+---
+
+<header class="site-header container">
+  <a href="/" class="site-header__brand">
+    <div class="site-header__logo">O</div>
+    <span class="site-header__name">Origin Longevity</span>
+  </a>
+  <p class="site-header__tagline">Finding the core signal in longevity science.</p>
+</header>
+
+<nav class="site-nav container">
+  {topics.map(t => (
+    <a href={`/${t.slug}/`} class={activeTopic === t.slug ? 'active' : ''}>
+      {t.label}
+    </a>
+  ))}
+</nav>

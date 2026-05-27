@@ -1,0 +1,33 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  topic: string;
+  readTime: string;
+  href: string;
+}
+
+const { title, description, topic, readTime, href } = Astro.props;
+
+const topicIcons: Record<string, string> = {
+  supplements: '&#9883;',
+  biomarkers: '&#9829;',
+  protocols: '&#9881;',
+  mechanisms: '&#9878;',
+  testing: '&#9874;',
+};
+---
+
+<a href={href} class="article-item">
+  <div>
+    <span class={`article-item__topic article-item__topic--${topic}`}>{topic}</span>
+    <h3 class="article-item__title">{title}</h3>
+    <p class="article-item__desc">{description}</p>
+  </div>
+  <div
+    class="article-item__icon"
+    style={`background: var(--color-${topic}-bg); color: var(--color-${topic});`}
+  >
+    <span style="font-size: 20px;" set:html={topicIcons[topic] || '&#9733;'} />
+  </div>
+</a>
