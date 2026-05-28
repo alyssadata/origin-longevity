@@ -10,11 +10,11 @@ const featured = allArticles.find(a => a.data.featured);
 const latest = allArticles.filter(a => !a.data.featured).slice(0, 10);
 
 const topics = [
-  { slug: 'supplements', label: 'Supplements', icon: 'S' },
-  { slug: 'biomarkers', label: 'Biomarkers', icon: 'B' },
-  { slug: 'protocols', label: 'Protocols', icon: 'P' },
-  { slug: 'mechanisms', label: 'Mechanisms', icon: 'M' },
-  { slug: 'testing', label: 'Testing', icon: 'T' },
+  { slug: 'supplements', label: 'Supplements', icon: '/icon-supplements.png' },
+  { slug: 'biomarkers', label: 'Biomarkers', icon: '/icon-biomarkers.png' },
+  { slug: 'protocols', label: 'Protocols', icon: '/icon-protocols.png' },
+  { slug: 'mechanisms', label: 'Mechanisms', icon: '/icon-mechanisms.png' },
+  { slug: 'testing', label: 'Testing', icon: '/icon-testing.png' },
 ];
 
 function articleCount(topic: string) {
@@ -61,12 +61,11 @@ function articleHref(article: any) {
       <div class="hubs-grid">
         {topics.map(t => (
           <a href={`/${t.slug}/`} class="hub-card">
-            <span
+            <img
+              src={t.icon}
+              alt={t.label}
               class="hub-card__icon"
-              style={`color: var(--color-${t.slug});`}
-            >
-              {t.icon}
-            </span>
+            />
             <span class="hub-card__name">{t.label}</span>
             <span class="hub-card__count">{articleCount(t.slug)} articles</span>
           </a>

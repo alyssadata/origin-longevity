@@ -9,12 +9,12 @@ interface Props {
 
 const { title, description, topic, readTime, href } = Astro.props;
 
-const topicLetters: Record<string, string> = {
-  supplements: 'S',
-  biomarkers: 'B',
-  protocols: 'P',
-  mechanisms: 'M',
-  testing: 'T',
+const topicIcons: Record<string, string> = {
+  supplements: '/icon-supplements.png',
+  biomarkers: '/icon-biomarkers.png',
+  protocols: '/icon-protocols.png',
+  mechanisms: '/icon-mechanisms.png',
+  testing: '/icon-testing.png',
 };
 ---
 
@@ -24,10 +24,7 @@ const topicLetters: Record<string, string> = {
     <h3 class="article-item__title">{title}</h3>
     <p class="article-item__desc">{description}</p>
   </div>
-  <div
-    class="article-item__icon"
-    style={`background: var(--color-${topic}-bg); color: var(--color-${topic});`}
-  >
-    <span style="font-size: 18px; font-weight: 600; font-family: var(--font-display);">{topicLetters[topic] || '?'}</span>
+  <div class="article-item__icon">
+    <img src={topicIcons[topic]} alt={topic} class="article-item__icon-img" />
   </div>
 </a>
