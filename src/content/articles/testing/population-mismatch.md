@@ -341,7 +341,7 @@ because many intervention classes remain conditional largely for fit reasons
 
 **08_NOTES | Emerging Patterns**  
 especially Pattern 7 and Pattern 8, because the protocol foundation and the
-protocol structure were explicitly resolved with fit in mind :contentReference[oaicite:1]{index=1}
+protocol structure were explicitly resolved with fit in mind
 
 ## Current Assessment
 

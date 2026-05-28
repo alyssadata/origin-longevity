@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Origin Longevity: Finding the core signal in longevity science"
+message: "If you reference this work, please cite it as below."
+type: dataset
+authors:
+  - family-names: Solen
+    given-names: Alyssa
+    orcid: "https://orcid.org/0009-0003-6115-4521"
+    affiliation: "Solen Systems LLC"
+url: "https://originlongevity.ai"
+repository-code: "https://github.com/alyssadata/origin-longevity"
+license: CC-BY-ND-4.0
+date-released: "2026-05-28"

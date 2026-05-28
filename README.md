@@ -1,43 +1,44 @@
-# Astro Starter Kit: Minimal
+# Origin Longevity
 
-```sh
-npm create astro@latest -- --template minimal
-```
+**Finding the core signal in longevity science.**
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Canonical site: [originlongevity.ai](https://originlongevity.ai)
 
-## 🚀 Project Structure
+---
 
-Inside of your Astro project, you'll see the following folders and files:
+## What this is
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+This repository houses the public Origin Longevity website and article archive: a structured, evidence-first exploration of aging mechanisms, biomarkers, interventions, and protocol design.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Origin Longevity is part of the [Alyssa AI](https://alyssaai.ai) product layer, built and maintained by [Solen Systems LLC](https://alyssaai.ai).
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Contents
 
-Any static assets, like images, can be placed in the `public/` directory.
+- `/src/content/articles/` — All published articles organized by topic hub
+- `/src/pages/` — Site pages and routing
+- `/src/components/` — Site components
+- `/src/styles/` — Site styling
+- `/public/` — Static assets
+- `ARTICLE_INDEX.md` — Complete index of all archived articles with canonical URLs
 
-## 🧞 Commands
+## Topic hubs
 
-All commands are run from the root of the project, from a terminal:
+- **Mechanisms** — The 12 hallmarks of aging
+- **Biomarkers** — Measuring biological age and aging rate
+- **Supplements** — Compound and therapy-based interventions
+- **Protocols** — Lifestyle interventions and protocol design frameworks
+- **Testing** — Risk assessment, validation constraints, and failure modes
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## Authorship
 
-## 👀 Want to learn more?
+Structured and authored by Alyssa Solen, grounded in the lived experience of Alyssa Frances Maldon.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## License
+
+Content is authored work. See LICENSE for terms.
+
+## Citation
+
+See CITATION.cff or cite as:
+
+> Solen, A. (2026). Origin Longevity: Finding the core signal in longevity science. https://originlongevity.ai

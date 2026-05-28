@@ -331,7 +331,7 @@ It is anti-distortion.
 This file is directly constrained by:
 
 **08_NOTES | Emerging Patterns**  
-especially Pattern 6, because that pattern settled the arbitration rule :contentReference[oaicite:1]{index=1}
+especially Pattern 6, because that pattern settled the arbitration rule
 
 **02_BIOMARKERS/06_functional_and_physiological_biomarkers**  
 because that section established why function belongs near the center of aging

@@ -115,7 +115,7 @@ These models estimate age gaps for specific organs or systems such as brain, art
 This is one of the most important developments in current aging biomarker research.
 
 Aging is not uniform.
-Organ-specific models are one of the clearest ways to respect that. :contentReference[oaicite:1]{index=1}
+Organ-specific models are one of the clearest ways to respect that.
 
 Strengths:
 - closer to true aging heterogeneity
@@ -136,7 +136,7 @@ This repository treats organ-specific models as one of the strongest directions 
 These models estimate aging across several organs at once and then compare or integrate the resulting age gaps.
 
 Their value is not only that they produce multiple outputs.
-Their value is that they can show whether aging burden is concentrated, diffuse, synergistic, or discordant across systems. :contentReference[oaicite:2]{index=2}
+Their value is that they can show whether aging burden is concentrated, diffuse, synergistic, or discordant across systems.
 
 Strengths:
 - captures organismal heterogeneity
@@ -210,7 +210,7 @@ Important issues include:
 - whether organ-specific outputs remain organ-specific outside the training set
 
 Recent reviews and studies in this space repeatedly emphasize that the hardest part is no longer only building the model.
-It is proving that the model travels well and means the same thing across populations and settings. :contentReference[oaicite:3]{index=3}
+It is proving that the model travels well and means the same thing across populations and settings.
 
 ## Intervention Tracking Value
 
@@ -266,13 +266,13 @@ Composite and system-level models connect directly to several other parts of the
 These models become more credible when system-level scores align with real human function.
 
 **05_proteomic_and_multiomic_clocks**  
-Many of the strongest recent organ-age and multi-organ models are built from proteomic, metabolomic, or imaging layers. :contentReference[oaicite:4]{index=4}
+Many of the strongest recent organ-age and multi-organ models are built from proteomic, metabolomic, or imaging layers.
 
 **01_epigenetic_clocks**  
 This file provides the main contrast between single-domain molecular clocks and broader integrated frameworks.
 
 **08_validation_and_translation_constraints**  
-This is one of the most important downstream files for this category because model complexity raises the validation burden sharply. :contentReference[oaicite:5]{index=5}
+This is one of the most important downstream files for this category because model complexity raises the validation burden sharply.
 
 **05_PROTOCOL_DESIGN**  
 This category may become one of the strongest bridges into protocol design because it can reveal whether an intervention is helping the organism broadly, narrowly, or unevenly.

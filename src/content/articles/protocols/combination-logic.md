@@ -63,12 +63,12 @@ Recent reviews of combinatorial interventions in aging argue that the logic is
 strong because aging is multifactorial and because combined interventions have
 already shown additive or sometimes synergistic lifespan and healthspan effects
 in mammalian models. The evidence base is still relatively small, but it is
-real. :contentReference[oaicite:1]{index=1}
+real.
 
 A 2025 Nature Aging study reported that trametinib and rapamycin extended mouse
 lifespan and healthspan additively when combined, reinforcing the idea that
 interventions acting on different parts of a shared aging-relevant network can
-outperform monotherapy. :contentReference[oaicite:2]{index=2}
+outperform monotherapy.
 
 This does not prove that more interventions are always better.
 It proves that combination logic deserves serious evaluation.
@@ -203,7 +203,7 @@ Main problems include:
 Recent geroscience trial-design reviews emphasize that human geroscience
 research already faces challenges in population selection, outcomes,
 biomarkers, and intervention choice. Combination trials magnify those
-difficulties. :contentReference[oaicite:3]{index=3}
+difficulties.
 
 ## Main Failure Modes
 
@@ -227,7 +227,7 @@ Two individually promising interventions may partially cancel each other,
 compete for adaptation capacity, or worsen tolerability.
 
 The 2025 rapamycin-plus-trametinib result is important partly because it shows
-that additive benefit must be demonstrated, not assumed. :contentReference[oaicite:4]{index=4}
+that additive benefit must be demonstrated, not assumed.
 
 ### Failure Mode 4 | Burden exceeding benefit
 

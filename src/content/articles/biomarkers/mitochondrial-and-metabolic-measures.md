@@ -25,7 +25,7 @@ It includes:
 - lactate, acylcarnitines, organic acids, and broader metabolomic signatures
 - composite bioenergetic and metabolic profiles
 
-This category matters because mitochondrial dysfunction is one of the core hallmarks of aging, and metabolic dysregulation is one of the clearest ways that aging becomes measurable in real organisms. :contentReference[oaicite:0]{index=0}
+This category matters because mitochondrial dysfunction is one of the core hallmarks of aging, and metabolic dysregulation is one of the clearest ways that aging becomes measurable in real organisms.
 
 ## Why They Matter
 
@@ -42,9 +42,9 @@ They influence:
 - inflammatory activation
 - adaptation to energetic stress
 
-That makes mitochondrial and metabolic biomarkers attractive. If aging changes energy handling, stress tolerance, and organelle quality, then those changes should leave measurable signals. :contentReference[oaicite:1]{index=1}
+That makes mitochondrial and metabolic biomarkers attractive. If aging changes energy handling, stress tolerance, and organelle quality, then those changes should leave measurable signals.
 
-But this biomarker class is difficult because mitochondrial function is highly dynamic. It changes by tissue, by recent activity, by fasting state, by disease burden, by medication exposure, and by whether the system is measured at rest or under stress. A measure can therefore be biologically meaningful and still be hard to interpret as a stable aging readout. :contentReference[oaicite:2]{index=2}
+But this biomarker class is difficult because mitochondrial function is highly dynamic. It changes by tissue, by recent activity, by fasting state, by disease burden, by medication exposure, and by whether the system is measured at rest or under stress. A measure can therefore be biologically meaningful and still be hard to interpret as a stable aging readout.
 
 ## Working View in This Repository
 
@@ -58,7 +58,7 @@ Working interpretation:
 - constrained by tissue specificity and physiological state
 - promising for intervention tracking, but not simple
 
-This repository treats mitochondrial and metabolic biomarkers as important parts of a serious aging framework, but not as a one-number replacement for biological age. :contentReference[oaicite:3]{index=3}
+This repository treats mitochondrial and metabolic biomarkers as important parts of a serious aging framework, but not as a one-number replacement for biological age.
 
 ## Core Distinction
 
@@ -68,7 +68,7 @@ And a metabolite that shifts after an intervention is not automatically evidence
 
 These are different questions.
 
-Mitochondrial and metabolic measures often sit closer to mechanism than some other biomarker classes, which is a strength. But closeness to mechanism does not remove the translation problem. A change in respiration, ATP-linked flux, or circulating metabolites may reflect genuine improvement, temporary compensation, altered substrate availability, or acute physiological context rather than durable slowing of aging. :contentReference[oaicite:4]{index=4}
+Mitochondrial and metabolic measures often sit closer to mechanism than some other biomarker classes, which is a strength. But closeness to mechanism does not remove the translation problem. A change in respiration, ATP-linked flux, or circulating metabolites may reflect genuine improvement, temporary compensation, altered substrate availability, or acute physiological context rather than durable slowing of aging.
 
 ## Major Measure Types
 
@@ -96,7 +96,7 @@ Limitations:
 - results depend on sample handling and assay conditions
 - resting measurements may miss resilience under challenge
 
-This repository treats bioenergetic profiling as one of the strongest mitochondrial biomarker directions, especially when paired with functional context. :contentReference[oaicite:5]{index=5}
+This repository treats bioenergetic profiling as one of the strongest mitochondrial biomarker directions, especially when paired with functional context.
 
 ### 2. Mitochondrial DNA-Related Measures
 
@@ -119,7 +119,7 @@ Limitations:
 - circulating mtDNA may reflect damage or inflammation rather than better mechanistic clarity
 - these measures can be informative without being good stand-alone aging trackers
 
-This repository treats mtDNA-related measures as biologically important but highly interpretation-sensitive. :contentReference[oaicite:6]{index=6}
+This repository treats mtDNA-related measures as biologically important but highly interpretation-sensitive.
 
 ### 3. Redox and Stress-State Measures
 
@@ -142,7 +142,7 @@ Limitations:
 - transient physiological state can distort readings
 - suppression of oxidative signal is not automatically beneficial
 
-This repository treats redox measures as useful only when interpreted as part of a broader system rather than as a free-radical scorecard. :contentReference[oaicite:7]{index=7}
+This repository treats redox measures as useful only when interpreted as part of a broader system rather than as a free-radical scorecard.
 
 ### 4. Metabolomic and Fuel-Handling Measures
 
@@ -165,7 +165,7 @@ Limitations:
 - often not specific to aging alone
 - interpretation can be broad rather than mechanistically narrow
 
-This repository treats metabolomic profiles as promising, especially for composite biomarker logic, but not self-explanatory on their own. :contentReference[oaicite:8]{index=8}
+This repository treats metabolomic profiles as promising, especially for composite biomarker logic, but not self-explanatory on their own.
 
 ### 5. Mitophagy and Quality-Control Measures
 
@@ -181,7 +181,7 @@ Limitations:
 - static markers may not reflect true flux
 - assay standardization is limited
 
-This repository treats mitophagy-related measures as highly important but still early as practical biomarkers. :contentReference[oaicite:9]{index=9}
+This repository treats mitophagy-related measures as highly important but still early as practical biomarkers.
 
 ## Why Interpretation Is Difficult
 
@@ -200,7 +200,7 @@ Any given result may reflect some combination of:
 - chronic disease burden
 - cell-composition effects
 
-This means the same measurement can be mechanistically relevant and still be poor as a universal biological-age readout. It also means challenge-based or longitudinal interpretation may matter more than one static measurement. :contentReference[oaicite:10]{index=10}
+This means the same measurement can be mechanistically relevant and still be poor as a universal biological-age readout. It also means challenge-based or longitudinal interpretation may matter more than one static measurement.
 
 ## Tissue and System Constraints
 
@@ -214,7 +214,7 @@ Important realities:
 - tissue turnover and energy demand shape what “normal” looks like
 - organism-level metabolism can shift even when one tissue looks stable
 
-This repository therefore treats mitochondrial and metabolic biomarkers as strongly context-dependent and often more informative in combinations than in isolation. :contentReference[oaicite:11]{index=11}
+This repository therefore treats mitochondrial and metabolic biomarkers as strongly context-dependent and often more informative in combinations than in isolation.
 
 ## Intervention Tracking Value
 
@@ -233,7 +233,7 @@ Why caution is still required:
 - a biomarker shift does not automatically prove improved long-term aging trajectory
 - assay reproducibility and state control matter
 
-This repository treats mitochondrial and metabolic measures as meaningful candidates for protocol tracking, but not as sufficient by themselves. :contentReference[oaicite:12]{index=12}
+This repository treats mitochondrial and metabolic measures as meaningful candidates for protocol tracking, but not as sufficient by themselves.
 
 ## Biomarker Strengths
 
@@ -260,7 +260,7 @@ Important cautions:
 - static measures can miss resilience, flux, and adaptation
 - metabolic improvement is not identical to slowed aging
 
-This is not a biomarker class where “more energy” is a complete conclusion. :contentReference[oaicite:13]{index=13}
+This is not a biomarker class where “more energy” is a complete conclusion.
 
 ## Relationship to the Rest of the Repository
 
@@ -282,7 +282,7 @@ This biomarker class becomes more credible when linked to real physical and cogn
 This class is one of the clearest examples of why tissue logic, assay standardization, and state control are essential.
 
 **05_PROTOCOL_DESIGN**  
-These measures may matter substantially for protocol design, especially in exercise-, metabolism-, or repair-oriented interventions, but they should enter as part of a validated panel rather than as a stand-alone proof layer. :contentReference[oaicite:14]{index=14}
+These measures may matter substantially for protocol design, especially in exercise-, metabolism-, or repair-oriented interventions, but they should enter as part of a validated panel rather than as a stand-alone proof layer.
 
 ## Current Assessment
 

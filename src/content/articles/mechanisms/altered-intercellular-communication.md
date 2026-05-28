@@ -26,7 +26,7 @@ The core problem is not simply that signaling decreases.
 
 The problem is that signaling becomes less appropriately matched to context.
 
-Messages may become excessive, delayed, blunted, noisy, persistent, mistimed, or misinterpreted. As that happens, coordination across tissues weakens. Aging becomes not only a problem of damaged parts, but a problem of damaged communication between parts. :contentReference[oaicite:1]{index=1}
+Messages may become excessive, delayed, blunted, noisy, persistent, mistimed, or misinterpreted. As that happens, coordination across tissues weakens. Aging becomes not only a problem of damaged parts, but a problem of damaged communication between parts.
 
 ## Why It Matters
 
@@ -56,7 +56,7 @@ When communication becomes altered with age:
 - neighboring cells can be pushed into dysfunction
 - tissue environments become harder to stabilize
 
-This hallmark matters because even if one cell or pathway could still function locally, the larger system can degrade when the signaling environment becomes noisy enough. :contentReference[oaicite:2]{index=2}
+This hallmark matters because even if one cell or pathway could still function locally, the larger system can degrade when the signaling environment becomes noisy enough.
 
 ## Working View in This Repository
 
@@ -72,7 +72,7 @@ Working interpretation:
 - one of the clearest hallmarks connecting local aging to organism-level aging
 - especially important for tissue environments, recovery quality, and cross-system stability
 
-This repository treats altered intercellular communication as one of the major “network coherence” hallmarks in aging. :contentReference[oaicite:3]{index=3}
+This repository treats altered intercellular communication as one of the major “network coherence” hallmarks in aging.
 
 ## Key Mechanisms
 
@@ -82,7 +82,7 @@ Aging alters long-range signaling through hormones, growth factors, and neuroend
 
 These systems help coordinate metabolism, stress adaptation, circadian behavior, reproduction, immune function, and tissue maintenance.
 
-When those signals become dysregulated, the organism can lose its ability to align systemic state with local needs. :contentReference[oaicite:4]{index=4}
+When those signals become dysregulated, the organism can lose its ability to align systemic state with local needs.
 
 ### 2. Paracrine Signaling Distortion
 
@@ -90,7 +90,7 @@ Cells influence nearby cells through local secreted signals.
 
 With aging, the local tissue environment often shifts toward more stress signaling, more damage signaling, weaker regenerative cues, and altered matrix-remodeling signals.
 
-This can change what nearby cells become, how they respond, and whether a tissue remains stable under pressure. :contentReference[oaicite:5]{index=5}
+This can change what nearby cells become, how they respond, and whether a tissue remains stable under pressure.
 
 ### 3. Senescence-Driven Signaling Spillover
 
@@ -98,7 +98,7 @@ Senescent cells do not only change internally. They alter surrounding tissue thr
 
 That makes senescence a direct communication problem as well as a cell-state problem.
 
-Persistent SASP output can reinforce senescence, amplify inflammation, distort repair, and push neighboring cells toward dysfunction. :contentReference[oaicite:6]{index=6}
+Persistent SASP output can reinforce senescence, amplify inflammation, distort repair, and push neighboring cells toward dysfunction.
 
 ### 4. Extracellular Vesicle Shift
 
@@ -106,7 +106,7 @@ Extracellular vesicles carry proteins, lipids, RNAs, and signaling cargo between
 
 Aging appears to alter extracellular-vesicle production, composition, and signaling effects, and senescent cells may contribute vesicle-mediated inflammatory and immune-aging signals.
 
-This is still an emerging area, but it belongs inside this hallmark because vesicle traffic is one of the ways altered signaling spreads across tissues. :contentReference[oaicite:7]{index=7}
+This is still an emerging area, but it belongs inside this hallmark because vesicle traffic is one of the ways altered signaling spreads across tissues.
 
 ### 5. Extracellular Matrix Signaling Change
 
@@ -114,7 +114,7 @@ The extracellular matrix is not just structural support. It is part of how cells
 
 With age, matrix composition, stiffness, and remodeling can change. Those changes alter how cells interpret their surroundings and can push tissues toward fibrosis, inflammation, or senescence-linked behavior.
 
-This matters because signaling is not only soluble. Some of it is mechanical and contextual. :contentReference[oaicite:8]{index=8}
+This matters because signaling is not only soluble. Some of it is mechanical and contextual.
 
 ### 6. Resolution Failure
 
@@ -122,7 +122,7 @@ Aging often looks less like absence of signaling and more like failure to resolv
 
 Repair signals may stay on too long. Stress signals may not shut off. Immune recruitment may overshoot or undershoot. Local and systemic signals can remain chronically out of tune.
 
-That persistent miscoordination is a core part of this hallmark. :contentReference[oaicite:9]{index=9}
+That persistent miscoordination is a core part of this hallmark.
 
 ## Relationship to Other Hallmarks
 
@@ -131,25 +131,25 @@ Altered intercellular communication is deeply entangled with the rest of the agi
 ### Connected hallmarks include:
 
 **Cellular senescence**  
-The SASP is one of the clearest examples of aging-related signaling distortion spreading from cell state to tissue environment. :contentReference[oaicite:10]{index=10}
+The SASP is one of the clearest examples of aging-related signaling distortion spreading from cell state to tissue environment.
 
 **Chronic inflammation**  
-Inflammation was separated into its own hallmark in the 2023 update, but the two remain tightly linked. Altered intercellular communication is broader than inflammation, while chronic inflammation is one of its most important and persistent signaling manifestations. :contentReference[oaicite:11]{index=11}
+Inflammation was separated into its own hallmark in the 2023 update, but the two remain tightly linked. Altered intercellular communication is broader than inflammation, while chronic inflammation is one of its most important and persistent signaling manifestations.
 
 **Stem cell exhaustion**  
-Stem cells depend on accurate niche signaling. Communication distortion can directly impair quiescence, activation, and regenerative output. :contentReference[oaicite:12]{index=12}
+Stem cells depend on accurate niche signaling. Communication distortion can directly impair quiescence, activation, and regenerative output.
 
 **Epigenetic alterations**  
-Epigenetic change can distort what signals cells produce and how they interpret incoming signals. :contentReference[oaicite:13]{index=13}
+Epigenetic change can distort what signals cells produce and how they interpret incoming signals.
 
 **Mitochondrial dysfunction**  
-Damaged mitochondria can generate inflammatory and danger signals that alter local and systemic communication. :contentReference[oaicite:14]{index=14}
+Damaged mitochondria can generate inflammatory and danger signals that alter local and systemic communication.
 
 **Loss of proteostasis**  
-Proteotoxic stress changes secretory behavior and can increase stress signaling burdens across tissues. :contentReference[oaicite:15]{index=15}
+Proteotoxic stress changes secretory behavior and can increase stress signaling burdens across tissues.
 
 **Dysbiosis**  
-Changes in host-microbe signaling alter immune tone, metabolites, barrier behavior, and systemic communication. :contentReference[oaicite:16]{index=16}
+Changes in host-microbe signaling alter immune tone, metabolites, barrier behavior, and systemic communication.
 
 ## Biomarker and Measurement Options
 
@@ -174,29 +174,29 @@ Limitations:
 - signal timing matters, not only signal abundance
 - human intervention tracking remains difficult without composite interpretation
 
-This repository treats altered intercellular communication as measurable only through layered, context-aware readouts rather than one definitive biomarker. :contentReference[oaicite:17]{index=17}
+This repository treats altered intercellular communication as measurable only through layered, context-aware readouts rather than one definitive biomarker.
 
 ## Candidate Intervention Directions
 
 This hallmark is important, but intervention logic should stay disciplined.
 
 ### 1. Senescence-burden reduction
-Reducing persistent senescent-cell signaling may improve tissue communication quality by lowering SASP-related distortion. This links altered communication directly to senolytic or senomorphic research. :contentReference[oaicite:18]{index=18}
+Reducing persistent senescent-cell signaling may improve tissue communication quality by lowering SASP-related distortion. This links altered communication directly to senolytic or senomorphic research.
 
 ### 2. Inflammatory-noise reduction
-Because chronic inflammatory signaling raises system-wide noise, reducing unresolved inflammatory burden may improve broader communication fidelity. This intersects strongly with the separate chronic-inflammation hallmark. :contentReference[oaicite:19]{index=19}
+Because chronic inflammatory signaling raises system-wide noise, reducing unresolved inflammatory burden may improve broader communication fidelity. This intersects strongly with the separate chronic-inflammation hallmark.
 
 ### 3. Niche and matrix restoration
-Improving tissue environments, reducing fibrosis-like signaling, and restoring healthier extracellular context may matter as much as changing soluble factor levels. :contentReference[oaicite:20]{index=20}
+Improving tissue environments, reducing fibrosis-like signaling, and restoring healthier extracellular context may matter as much as changing soluble factor levels.
 
 ### 4. Endocrine and systemic-state recalibration
-Some aging-related signaling distortion may reflect broader endocrine or neuroendocrine dysregulation rather than only local tissue failure. This makes systemic state part of the intervention logic. :contentReference[oaicite:21]{index=21}
+Some aging-related signaling distortion may reflect broader endocrine or neuroendocrine dysregulation rather than only local tissue failure. This makes systemic state part of the intervention logic.
 
 ### 5. Extracellular-vesicle research
-This remains an early track, but vesicle-mediated signaling may eventually become a meaningful intervention or diagnostic layer if the field matures enough. :contentReference[oaicite:22]{index=22}
+This remains an early track, but vesicle-mediated signaling may eventually become a meaningful intervention or diagnostic layer if the field matures enough.
 
 ### 6. Upstream burden reduction
-Because signaling distortion often reflects deeper damage, senescence, mitochondrial stress, or niche deterioration, this hallmark may improve partly by reducing upstream failure rather than targeting communication in isolation. :contentReference[oaicite:23]{index=23}
+Because signaling distortion often reflects deeper damage, senescence, mitochondrial stress, or niche deterioration, this hallmark may improve partly by reducing upstream failure rather than targeting communication in isolation.
 
 ## Constraints and Cautions
 
@@ -211,7 +211,7 @@ Important cautions:
 - extracellular-vesicle biology is promising but still emerging
 - correcting one signal does not automatically restore tissue coordination
 
-This is not a hallmark where “reduce bad signals” is a complete framework. :contentReference[oaicite:24]{index=24}
+This is not a hallmark where “reduce bad signals” is a complete framework.
 
 ## Current Assessment
 

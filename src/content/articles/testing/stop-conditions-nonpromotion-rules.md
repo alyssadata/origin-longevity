@@ -243,7 +243,7 @@ An intervention should not be promoted simply because it is:
 
 This is one of the clearest nonpromotion rules in the repository.
 
-Scientific importance and protocol readiness are not the same thing. :contentReference[oaicite:1]{index=1}
+Scientific importance and protocol readiness are not the same thing.
 
 ## Main Nonpromotion Rules
 
@@ -433,7 +433,7 @@ because protocols fail when they lose the ability not to promote
 **08_NOTES | Emerging Patterns**  
 especially Pattern 6, Pattern 7, and Pattern 8, because function-first logic,
 visible intervention hierarchy, and the protocol section’s structural
-resolutions all depend on explicit nonpromotion rules :contentReference[oaicite:2]{index=2}
+resolutions all depend on explicit nonpromotion rules
 
 ## Current Assessment
 

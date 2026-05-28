@@ -330,7 +330,7 @@ because poor fit is one of the easiest ways translation gets overstated
 **08_NOTES | Emerging Patterns**  
 especially Pattern 7 and Pattern 8, because the repository already resolved
 that the strongest protocol foundation is behavioral and functional, and that
-protocol structure does not erase intervention evidence gaps :contentReference[oaicite:1]{index=1}
+protocol structure does not erase intervention evidence gaps
 
 ## Current Assessment
 

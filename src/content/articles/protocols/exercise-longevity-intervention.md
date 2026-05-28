@@ -23,7 +23,7 @@ cardiometabolic health, cognitive health, physical function, falls risk, and
 functional capacity. The World Health Organization states that regular physical
 activity reduces all-cause mortality, cardiovascular mortality, incident
 hypertension, site-specific cancers, type 2 diabetes, falls, and declines in
-functional ability in adults and older adults. :contentReference[oaicite:0]{index=0}
+functional ability in adults and older adults.
 
 ## Why It Matters
 
@@ -47,12 +47,12 @@ Exercise affects:
 That makes it unusually important under the repository’s governing rule that
 function takes precedence when biomarkers conflict with it. Exercise is one of
 the few intervention classes where the functional case is already stronger than
-the biomarker case. :contentReference[oaicite:1]{index=1}
+the biomarker case.
 
 Recent review-level work also argues that regular exercise mitigates multiple
 hallmarks of biological aging and should be understood as a broad
 non-pharmacological healthy-aging strategy rather than as a single-system
-intervention. :contentReference[oaicite:2]{index=2}
+intervention.
 
 ## Core Mechanism
 
@@ -76,7 +76,7 @@ These may include:
 
 That breadth is one reason exercise belongs near the top of the intervention
 hierarchy in this repository. It does not act like a single-target compound. It
-acts like a systems-level adaptation signal. :contentReference[oaicite:3]{index=3}
+acts like a systems-level adaptation signal.
 
 ## Target Hallmarks
 
@@ -97,7 +97,7 @@ Strongest links include:
 
 Recent review literature explicitly frames exercise as attenuating multiple
 hallmarks of aging rather than only improving one pathway or organ system.
-:contentReference[oaicite:4]{index=4}
+
 
 ## Working View in This Repository
 
@@ -116,7 +116,7 @@ Working interpretation:
 
 This repository treats exercise as one of the most credible longevity
 interventions available now, while still rejecting simplistic or maximalist
-framing. :contentReference[oaicite:5]{index=5}
+framing.
 
 ## Evidence Maturity
 
@@ -129,11 +129,11 @@ The World Health Organization’s guidance summarizes evidence that regular
 physical activity is associated with reduced all-cause mortality,
 cardiovascular mortality, type 2 diabetes, some cancers, falls, and decline in
 functional ability. Insufficiently active people have a 20% to 30% increased
-risk of death compared with sufficiently active people. :contentReference[oaicite:6]{index=6}
+risk of death compared with sufficiently active people.
 
 That does not prove exercise is a perfect “anti-aging therapy.”
 It does mean the human outcome case is already stronger than for most
-pharmacologic longevity candidates in this repository. :contentReference[oaicite:7]{index=7}
+pharmacologic longevity candidates in this repository.
 
 ### 2. Guideline-level exercise dosing is already established
 
@@ -143,10 +143,10 @@ activity, or an equivalent combination. Older adults are also advised to do
 muscle-strengthening activity involving all major muscle groups on 2 or more
 days a week, and multicomponent activity emphasizing functional balance and
 strength training on 3 or more days a week to enhance functional capacity and
-prevent falls. :contentReference[oaicite:8]{index=8}
+prevent falls.
 
 That matters because this intervention class already has a translational floor.
-It is not starting from theoretical plausibility alone. :contentReference[oaicite:9]{index=9}
+It is not starting from theoretical plausibility alone.
 
 ### 3. Exercise also has biomarker and biological-aging signal
 
@@ -157,21 +157,21 @@ A 2026 npj Aging study using UK Biobank data and a 12-week supervised exercise
 intervention found that higher physical activity was associated with lower
 proteomic aging scores, and in the intervention cohort ProtAgeGap fell by the
 equivalent of about 10 months after 12 weeks of exercise, alongside improved
-insulin sensitivity, VO2 max, and muscle strength. :contentReference[oaicite:10]{index=10}
+insulin sensitivity, VO2 max, and muscle strength.
 
 That is not proof of whole-body rejuvenation.
 It is meaningful support for the idea that exercise can move biological-age
-signals in a favorable direction while also improving real function. :contentReference[oaicite:11]{index=11}
+signals in a favorable direction while also improving real function.
 
 ### 4. Epigenetic-aging evidence is promising but still variable
 
 A 2025 perspective review concluded that physical activity, exercise, and
 physical fitness may delay or reverse epigenetic aging, but also emphasized
-considerable interindividual and organ-specific variability. :contentReference[oaicite:12]{index=12}
+considerable interindividual and organ-specific variability.
 
 That fits the broader logic of this repository:
 exercise has real biomarker promise, but function still carries more weight
-than any one clock shift. :contentReference[oaicite:13]{index=13}
+than any one clock shift.
 
 ## Evidence Standard
 
@@ -185,7 +185,7 @@ Current evidence level in this repository:
 
 This intervention class should be treated as human-credible and translation
 credible, even though it does not fit the drug-trial model cleanly.
-:contentReference[oaicite:14]{index=14}
+
 
 ## Major Intervention Classes Within This File
 
@@ -206,7 +206,7 @@ Limits:
 - not sufficient by itself for all aging goals
 
 WHO’s guidance and broader evidence base strongly support aerobic activity as a
-core part of healthy aging. :contentReference[oaicite:15]{index=15}
+core part of healthy aging.
 
 ### 2. Resistance training
 
@@ -226,7 +226,7 @@ Limits:
 
 WHO specifically recommends muscle-strengthening work on 2 or more days a week
 for older adults, and the wider aging literature keeps pointing to strength
-maintenance as a central anti-decline strategy. :contentReference[oaicite:16]{index=16}
+maintenance as a central anti-decline strategy.
 
 ### 3. Multicomponent training
 
@@ -245,7 +245,7 @@ Limits:
 
 WHO’s guideline for older adults specifically recommends varied multicomponent
 activity with functional balance and strength training on 3 or more days a
-week to enhance functional capacity and prevent falls. :contentReference[oaicite:17]{index=17}
+week to enhance functional capacity and prevent falls.
 
 ### 4. Physical-activity patterning versus formal exercise
 
@@ -257,7 +257,7 @@ Both matter.
 Walking, active transport, reducing sedentary time, and maintaining overall
 movement count toward health benefit, and WHO explicitly states that any amount
 of activity is better than none and that replacing sedentary time with
-activity of any intensity provides benefit. :contentReference[oaicite:18]{index=18}
+activity of any intensity provides benefit.
 
 This matters because the longevity value of exercise is not confined to gym
 logic alone.
@@ -271,7 +271,7 @@ That does not mean maximal volume is always superior.
 
 Recent review literature explicitly notes the need to define effective minimums
 and safe maximum thresholds for older adults rather than assuming infinite
-benefit with increasing dose. :contentReference[oaicite:19]{index=19}
+benefit with increasing dose.
 
 ### 2. Population fit matters
 
@@ -279,7 +279,7 @@ The right exercise pattern depends on baseline fitness, age, disease burden,
 injury status, recovery capacity, and goals.
 
 The same intervention dose is not equally appropriate for a sedentary older
-adult, a trained athlete, and a frail patient after illness. :contentReference[oaicite:20]{index=20}
+adult, a trained athlete, and a frail patient after illness.
 
 ### 3. Function can improve before molecular explanation catches up
 
@@ -288,7 +288,7 @@ It is a reminder of the repository’s ordering principle.
 
 Exercise can clearly improve human function even when the biomarker story is
 still heterogeneous. That is one reason function takes precedence here.
-:contentReference[oaicite:21]{index=21}
+
 
 ### 4. Adherence is part of the intervention
 
@@ -315,7 +315,7 @@ But the governing rule remains the same:
 biomarker movement is not enough.
 
 Exercise is unusually valuable because its functional case does not depend on
-waiting for biomarker consensus. :contentReference[oaicite:22]{index=22}
+waiting for biomarker consensus.
 
 ## Relevant Functional and Physiological Readouts
 
@@ -332,7 +332,7 @@ This intervention class should be judged on readouts such as:
 
 This is one of the few intervention classes where those readouts are not a
 secondary validation layer. They are the center of the intervention logic.
-:contentReference[oaicite:23]{index=23}
+
 
 ## Translation Constraints
 
@@ -356,19 +356,19 @@ Exercise connects directly to:
 
 **06_deregulated_nutrient_sensing**  
 because it shifts growth-versus-repair and metabolic-state signaling.
-:contentReference[oaicite:24]{index=24}
+
 
 **07_mitochondrial_dysfunction**  
 because exercise is one of the strongest non-pharmacologic interventions for
-mitochondrial maintenance and bioenergetic capacity. :contentReference[oaicite:25]{index=25}
+mitochondrial maintenance and bioenergetic capacity.
 
 **05_disabled_macroautophagy**  
 because exercise influences maintenance and cleanup pathways rather than only
-output. :contentReference[oaicite:26]{index=26}
+output.
 
 **02_BIOMARKERS/06_functional_and_physiological_biomarkers**  
 because function is the main reason this intervention class is already
-credible in humans. :contentReference[oaicite:27]{index=27}
+credible in humans.
 
 **08_NOTES | Emerging Patterns Across Hallmarks**  
 because exercise strongly supports Pattern 6: function takes precedence when

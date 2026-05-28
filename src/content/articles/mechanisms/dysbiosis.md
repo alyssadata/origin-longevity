@@ -58,7 +58,7 @@ When dysbiosis develops with age:
 
 This matters because dysbiosis is not only a local gut issue.
 
-Once barrier integrity, microbial metabolites, and immune signaling are altered enough, the effects can spread across the organism. ([turn495432sear:contentReference[oaicite:1]{index=1}) [turn49543:contentReference[oaicite:3]{index=3}))
+Once barrier integrity, microbial metabolites, and immune signaling are altered enough, the effects can spread across the organism. ([turn495432sear) [turn49543))
 
 ## Working View in This Repository
 

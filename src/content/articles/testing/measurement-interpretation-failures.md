@@ -190,7 +190,7 @@ organismal reality.
 
 This is one of the clearest failure patterns in the repository.
 
-When biomarkers conflict with function, function takes precedence. :contentReference[oaicite:1]{index=1}
+When biomarkers conflict with function, function takes precedence.
 
 ### 3. Molecule Prestige Bias
 
@@ -273,7 +273,7 @@ It means the organism should not be overruled by a signal that is still too
 partial, too fragile, or too indirect.
 
 This repository treats function as the main correction layer when measurement
-or interpretation weakens. :contentReference[oaicite:2]{index=2}
+or interpretation weakens.
 
 ## Measurement and Interpretation Failure Modes
 
@@ -320,7 +320,7 @@ interpretation weaken
 
 **08_NOTES | Emerging Patterns**  
 especially Pattern 4 and Pattern 6, because those patterns already named the
-measurement problem and the function-first rule :contentReference[oaicite:3]{index=3}
+measurement problem and the function-first rule
 
 ## Current Assessment
 

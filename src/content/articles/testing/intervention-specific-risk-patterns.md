@@ -420,7 +420,7 @@ wrong intervention type
 **08_NOTES | Emerging Patterns**  
 especially Pattern 7 and Pattern 8, because those patterns clarified the
 intervention hierarchy and the protocol structure that now constrain
-promotion and fit :contentReference[oaicite:0]{index=0}
+promotion and fit
 
 ## Current Assessment
 

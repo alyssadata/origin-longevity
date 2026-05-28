@@ -321,7 +321,7 @@ This file is directly constrained by:
 
 **08_NOTES | Emerging Patterns**  
 especially Pattern 2, because the cancer entanglement is one of the main
-biological boundaries in the repository :contentReference[oaicite:1]{index=1}
+biological boundaries in the repository
 
 **03_INTERVENTIONS/12_risk_hierarchy_and_translation_limits**  
 because that file established the intervention-wide risk tiers

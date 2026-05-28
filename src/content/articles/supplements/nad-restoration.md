@@ -46,7 +46,7 @@ Recent review-level assessment is more cautious than the public narrative:
 preclinical studies remain promising, but evidence for a consistent age-related
 decline in human NAD+ levels has been observed only in a limited number of
 studies, and human clinical trials of NAD+ precursor supplementation have so
-far shown limited efficacy. :contentReference[oaicite:0]{index=0}
+far shown limited efficacy.
 
 ## Core Mechanism
 
@@ -66,7 +66,7 @@ That may affect:
 The problem is that mechanism at the cellular level does not automatically
 translate into meaningful organism-level benefit.
 
-Raising blood or tissue NAD+ is not the same as demonstrating slowed aging. :contentReference[oaicite:1]{index=1}
+Raising blood or tissue NAD+ is not the same as demonstrating slowed aging.
 
 ## Target Hallmarks
 
@@ -102,7 +102,7 @@ Working interpretation:
 - not ready for protocol design
 
 This repository treats NAD+ restoration as worth tracking closely, but not as
-a validated anti-aging intervention in humans. :contentReference[oaicite:2]{index=2}
+a validated anti-aging intervention in humans.
 
 ## Evidence Maturity
 
@@ -126,12 +126,12 @@ It is that NAD+ precursors can raise blood NAD+ measures.
 A randomized placebo-controlled NR trial in older adults with mild cognitive
 impairment reported a 2.6-fold increase in blood NAD+ at the target dose,
 with no between-group difference in adverse event reporting, but this was a
-small pilot study and not proof of broad anti-aging benefit. :contentReference[oaicite:3]{index=3}
+small pilot study and not proof of broad anti-aging benefit.
 
 A 2024 randomized placebo-controlled NMN study in older adults also reported
 increased blood NAD+ levels and signals in walking speed maintenance and sleep
 quality, but this remains early evidence rather than settled functional
-validation. :contentReference[oaicite:4]{index=4}
+validation.
 
 ### 3. Human efficacy remains limited and uneven
 
@@ -140,7 +140,7 @@ The current review-level position is more cautious than the market.
 The 2025 Nature Metabolism review concluded that human clinical trials of NAD+
 precursor supplementation have shown limited efficacy and that published data
 on NAD+ dynamics in human tissues remains sparse, making straightforward
-extrapolation from rodents inappropriate. :contentReference[oaicite:5]{index=5}
+extrapolation from rodents inappropriate.
 
 That does not make the intervention class unimportant.
 It means the translational ceiling has not yet been established.
@@ -170,7 +170,7 @@ Current evidence level in this repository:
 - protocol relevance: not yet
 
 This intervention class should be treated as translationally active, but not
-clinically settled for longevity. :contentReference[oaicite:6]{index=6}
+clinically settled for longevity.
 
 ## Major Intervention Classes Within This File
 
@@ -190,7 +190,7 @@ Limits:
 - translation to meaningful function remains unresolved
 
 This repository treats NR as one of the most serious compounds in this class,
-while still rejecting the idea that it is a validated anti-aging solution. :contentReference[oaicite:7]{index=7}
+while still rejecting the idea that it is a validated anti-aging solution.
 
 ### 2. Nicotinamide mononucleotide
 
@@ -207,7 +207,7 @@ Limits:
 - public enthusiasm has run ahead of evidentiary maturity
 
 This repository treats NMN as worth tracking, but not as a proven longevity
-intervention. :contentReference[oaicite:8]{index=8}
+intervention.
 
 ## Key Risks and Tradeoffs
 
@@ -216,19 +216,19 @@ intervention. :contentReference[oaicite:8]{index=8}
 This is the central caution.
 
 A precursor can increase circulating NAD+ or related metabolites without
-proving durable improvement in resilience, function, or aging trajectory. :contentReference[oaicite:9]{index=9}
+proving durable improvement in resilience, function, or aging trajectory.
 
 ### 2. Human tissue biology remains under-characterized
 
 One of the main problems in the field is that human tissue-level NAD+
 dynamics are still not mapped well enough to support strong intervention
-claims across organs. :contentReference[oaicite:10]{index=10}
+claims across organs.
 
 ### 3. Functional evidence is still thin
 
 Some small trials show encouraging signals, but the field does not yet have
 strong evidence that NAD+ restoration reliably improves whole-body aging,
-healthspan, or broad functional outcomes in humans. :contentReference[oaicite:11]{index=11}
+healthspan, or broad functional outcomes in humans.
 
 ### 4. Public hype is ahead of translational maturity
 
@@ -252,7 +252,7 @@ But the same rule applies here as everywhere else:
 biomarker movement is not enough.
 
 A rise in NAD+ without functional gain should be treated as a limited signal,
-not as proof of rejuvenation. :contentReference[oaicite:12]{index=12}
+not as proof of rejuvenation.
 
 ## Relevant Functional and Physiological Readouts
 
@@ -266,7 +266,7 @@ This intervention class should be judged on readouts such as:
 - broader functional reserve
 
 This matters because the current evidence base is strongest on biochemical
-movement and weaker on durable organism-level benefit. :contentReference[oaicite:13]{index=13}
+movement and weaker on durable organism-level benefit.
 
 ## Translation Constraints
 

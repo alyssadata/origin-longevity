@@ -32,7 +32,7 @@ shorter telomeres seem like they should mean older biology.
 The problem is that reality is less clean.
 
 Telomere length varies substantially across people, tissues, cell types, life stages, and measurement methods.
-The age association is real, but not strong enough by itself to make telomere length a definitive or self-interpreting biomarker of biological aging. :contentReference[oaicite:0]{index=0}
+The age association is real, but not strong enough by itself to make telomere length a definitive or self-interpreting biomarker of biological aging.
 
 ## Working View in This Repository
 
@@ -47,7 +47,7 @@ Working interpretation:
 - strongly constrained by tissue and cell-type composition
 - more informative when interpreted alongside other biomarkers than when treated as a single age number
 
-This repository treats telomere measures as important, but not decisive on their own. :contentReference[oaicite:1]{index=1}
+This repository treats telomere measures as important, but not decisive on their own.
 
 ## Core Distinction
 
@@ -58,7 +58,7 @@ a biomarker that correlates with age is not automatically a biomarker that track
 
 Telomere length does show age-related shortening on average across the lifespan.
 But the average cross-sectional association is modest, non-linear, and shaped by methodology and tissue source.
-That means telomere measurement should not be treated as a clean proxy for individual biological age. :contentReference[oaicite:2]{index=2}
+That means telomere measurement should not be treated as a clean proxy for individual biological age.
 
 ## Major Measure Types
 
@@ -81,7 +81,7 @@ Limitations:
 - inter-individual baseline variation is large
 - method choice affects comparability across studies
 
-This is the most common telomere biomarker, but also one of the easiest to overinterpret. :contentReference[oaicite:3]{index=3}
+This is the most common telomere biomarker, but also one of the easiest to overinterpret.
 
 ### 2. Shortest Telomere Burden
 
@@ -100,7 +100,7 @@ Limitations:
 - less standardized
 - not yet a routine human biomarker framework
 
-This repository treats shortest-telomere logic as important, even if the measurement ecosystem is still less mature. :contentReference[oaicite:4]{index=4}
+This repository treats shortest-telomere logic as important, even if the measurement ecosystem is still less mature.
 
 ### 3. Telomerase-Related Measures
 
@@ -118,7 +118,7 @@ Limitations:
 - tightly entangled with cancer biology
 - less straightforward as a general population biomarker
 
-This repository treats telomerase-related measures as mechanistically important but interpretation-heavy. :contentReference[oaicite:5]{index=5}
+This repository treats telomerase-related measures as mechanistically important but interpretation-heavy.
 
 ### 4. Telomere Dysfunction Measures
 
@@ -135,7 +135,7 @@ Limitations:
 - not broadly standardized for human intervention tracking
 - harder to deploy at scale
 
-This category matters because telomere failure is not identical to telomere length. :contentReference[oaicite:6]{index=6}
+This category matters because telomere failure is not identical to telomere length.
 
 ## Measurement Methods
 
@@ -154,7 +154,7 @@ Common approaches include:
 Method choice affects precision, throughput, comparability, and what exactly is being measured.
 
 This is one of the central problems in the field:
-different telomere methods are not interchangeable, and method-driven differences can materially change interpretation. :contentReference[oaicite:7]{index=7}
+different telomere methods are not interchangeable, and method-driven differences can materially change interpretation.
 
 ## Why Interpretation Is Difficult
 
@@ -173,7 +173,7 @@ Telomere measurement is hard to interpret cleanly because several layers are mix
 
 That means a short telomere measure may indicate aging-related burden, but it may also reflect life-history, cell composition, or methodological artifact.
 
-It also means a modest shift after an intervention may not be easy to interpret as genuine rejuvenation. :contentReference[oaicite:8]{index=8}
+It also means a modest shift after an intervention may not be easy to interpret as genuine rejuvenation.
 
 ## Tissue and Cell-Type Constraints
 
@@ -189,7 +189,7 @@ Important realities:
 - average blood telomere length does not fully capture organ-specific aging
 - the same individual can show different telomere dynamics across tissue compartments
 
-This repository therefore treats blood telomere measures as convenient but incomplete. :contentReference[oaicite:9]{index=9}
+This repository therefore treats blood telomere measures as convenient but incomplete.
 
 ## Intervention Tracking Value
 
@@ -205,7 +205,7 @@ But several problems remain:
 - a favorable telomere result does not automatically prove improved function or reduced morbidity risk
 
 This does not make telomere measures useless.
-It means they are better treated as one part of a composite framework than as a stand-alone decision layer for protocol design. :contentReference[oaicite:10]{index=10}
+It means they are better treated as one part of a composite framework than as a stand-alone decision layer for protocol design.
 
 ## Biomarker Strengths
 
@@ -231,7 +231,7 @@ Important cautions:
 - intervention-related changes can be hard to interpret
 - telomere maintenance and cancer risk are tightly linked
 
-This is not a biomarker class where “longer is better” is a complete conclusion. :contentReference[oaicite:11]{index=11}
+This is not a biomarker class where “longer is better” is a complete conclusion.
 
 ## Relationship to the Rest of the Repository
 

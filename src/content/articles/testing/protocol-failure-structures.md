@@ -60,7 +60,7 @@ Pattern 8 already established that the protocol section resolved four things:
 - the governing rule is restated and applied
 
 That means the next step is not to rediscover those failures.
-It is to show how they become stable failure structures if not checked. :contentReference[oaicite:1]{index=1}
+It is to show how they become stable failure structures if not checked.
 
 A protocol becomes more dangerous when its failures become normal design
 features rather than visible mistakes.
@@ -105,7 +105,7 @@ This structure fails because it reverses the hierarchy already resolved in the
 repository.
 
 The strongest current protocol base is behavioral and functional, not frontier
-biological. If the protocol acts otherwise, the structure is already broken. :contentReference[oaicite:2]{index=2}
+biological. If the protocol acts otherwise, the structure is already broken.
 
 ### 2. Biomarker Governance Structure
 
@@ -123,7 +123,7 @@ Typical pattern:
 This structure is one of the clearest violations of Pattern 6.
 
 When biomarkers conflict with function, function decides.
-A protocol that reverses that rule is structurally unsound. :contentReference[oaicite:3]{index=3}
+A protocol that reverses that rule is structurally unsound.
 
 ### 3. Support Inflation Structure
 
@@ -219,7 +219,7 @@ Typical pattern:
 This structure is especially dangerous because it can still look intelligent.
 
 But it violates one of the clearest conclusions of the repository:
-the strongest current interventions are not the most futuristic ones. :contentReference[oaicite:4]{index=4}
+the strongest current interventions are not the most futuristic ones.
 
 ### 9. No De-escalation Structure
 
@@ -352,7 +352,7 @@ because population blindness is one of the clearest structural failures
 
 **08_NOTES | Emerging Patterns**  
 especially Pattern 8, because this file is downstream of what the protocol
-section already resolved about structure, escalation, failure, and arbitration :contentReference[oaicite:5]{index=5}
+section already resolved about structure, escalation, failure, and arbitration
 
 ## Current Assessment
 

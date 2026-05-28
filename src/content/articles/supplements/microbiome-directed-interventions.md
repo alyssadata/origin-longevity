@@ -30,7 +30,7 @@ They share one core logic:
 
 the gut microbiome is part of the aging system, and changing it may alter
 inflammation, barrier integrity, metabolite production, immune tone, and
-system-level aging burden. :contentReference[oaicite:0]{index=0}
+system-level aging burden.
 
 ## Why They Matter
 
@@ -56,7 +56,7 @@ It does not make it simple.
 Recent review literature is clear that microbiome therapeutics for healthy aging
 are promising, but still constrained by causality problems, ecological
 complexity, variability across individuals, and uneven human intervention
-evidence. :contentReference[oaicite:1]{index=1}
+evidence.
 
 ## Core Mechanism
 
@@ -76,7 +76,7 @@ Microbiome-directed interventions may work through some combination of:
 This is one reason microbiome intervention is hard to evaluate.
 
 A taxonomic shift is not the same thing as a functional shift.
-And a microbiome change is not automatically a healthy-aging effect. :contentReference[oaicite:2]{index=2}
+And a microbiome change is not automatically a healthy-aging effect.
 
 ## Target Hallmarks
 
@@ -95,7 +95,7 @@ It may also influence:
 - epigenetic alterations through metabolite-linked regulation
 
 This is best understood as a host-environment and systems-regulation
-intervention class, not a narrow one-hallmark strategy. :contentReference[oaicite:3]{index=3}
+intervention class, not a narrow one-hallmark strategy.
 
 ## Working View in This Repository
 
@@ -112,7 +112,7 @@ Working interpretation:
 - not ready for broad protocol design
 
 This repository treats this class as serious, but insists on stronger evidence
-than “the microbiome changed.” :contentReference[oaicite:4]{index=4}
+than “the microbiome changed.”
 
 ## Evidence Maturity
 
@@ -124,7 +124,7 @@ still emerging and heavily dependent on individualized, precise, elderly-tailore
 approaches rather than simple universal interventions. A 2026 Nature Reviews
 Endocrinology review similarly described the gut microbiome as a potential key
 actor in aging trajectories while emphasizing population heterogeneity and
-clinical complexity. :contentReference[oaicite:5]{index=5}
+clinical complexity.
 
 ### 2. Probiotics, prebiotics, and synbiotics have human signal, but mostly at the ecosystem level
 
@@ -137,7 +137,7 @@ signal.
 But it is not proof of healthy-longevity efficacy.
 
 The evidence is stronger for microbiome modulation than for broad organism-level
-aging modification. :contentReference[oaicite:6]{index=6}
+aging modification.
 
 ### 3. Fecal microbiota transplantation remains biologically interesting, but human aging translation is still early
 
@@ -145,7 +145,7 @@ Recent reviews continue to treat fecal microbiota transplantation and broader
 ecosystem-reset strategies as plausible future tools for healthy aging, but not
 as validated anti-aging interventions in humans. The translational promise is
 there, especially given parabiosis-adjacent and preclinical microbiome-reset
-logic, but human evidence remains limited and context-dependent. :contentReference[oaicite:7]{index=7}
+logic, but human evidence remains limited and context-dependent.
 
 ### 4. The class is stronger as ecosystem support than as “rejuvenation”
 
@@ -155,7 +155,7 @@ function, and inflammatory burden.
 
 That is already important.
 
-It is more credible than claiming proven whole-body rejuvenation. :contentReference[oaicite:8]{index=8}
+It is more credible than claiming proven whole-body rejuvenation.
 
 ## Evidence Standard
 
@@ -167,7 +167,7 @@ Current evidence level in this repository:
 - protocol relevance: not yet
 
 This intervention class should be treated as translationally serious, but not
-as a validated anti-aging solution. :contentReference[oaicite:9]{index=9}
+as a validated anti-aging solution.
 
 ## Major Intervention Classes Within This File
 
@@ -190,7 +190,7 @@ Limits:
 
 This repository treats PPS strategies as meaningful but limited interventions.
 They are stronger for targeted microbiome support than for validated longevity
-claims. :contentReference[oaicite:10]{index=10}
+claims.
 
 ### 2. Postbiotics and metabolite-directed approaches
 
@@ -207,7 +207,7 @@ Limits:
 - less mature human evidence base
 - mechanism may be clearer than demonstrated long-term benefit
 
-This repository treats postbiotics as promising, but still emerging. :contentReference[oaicite:11]{index=11}
+This repository treats postbiotics as promising, but still emerging.
 
 ### 3. Fecal microbiota transplantation
 
@@ -225,7 +225,7 @@ Limits:
 - easiest part of the class to oversell publicly
 
 This repository treats FMT as scientifically important, but far from
-protocol-ready for general aging use. :contentReference[oaicite:12]{index=12}
+protocol-ready for general aging use.
 
 ### 4. Diet-mediated microbiome support
 
@@ -243,7 +243,7 @@ Limits:
 - mechanism can be broad rather than cleanly attributable
 
 This repository treats diet-mediated microbiome support as one of the most
-credible long-term microbiome directions. :contentReference[oaicite:13]{index=13}
+credible long-term microbiome directions.
 
 ## Key Risks and Tradeoffs
 
@@ -252,7 +252,7 @@ credible long-term microbiome directions. :contentReference[oaicite:13]{index=13
 A microbiome shift can look positive on paper without proving that barrier
 function, inflammatory tone, resilience, or healthy aging improved.
 
-This is one of the central risks in the whole class. :contentReference[oaicite:14]{index=14}
+This is one of the central risks in the whole class.
 
 ### 2. Context and baseline state matter heavily
 
@@ -260,7 +260,7 @@ The same probiotic, prebiotic, or ecological intervention may behave
 differently depending on age, frailty, diet, medication exposure, disease
 burden, and existing microbiome configuration.
 
-There is no credible one-size-fits-all logic here. :contentReference[oaicite:15]{index=15}
+There is no credible one-size-fits-all logic here.
 
 ### 3. Durability is uncertain
 
@@ -268,14 +268,14 @@ Many microbiome interventions produce short-term changes.
 Fewer clearly demonstrate durable ecosystem improvement or long-term aging
 benefit.
 
-That matters for translation. :contentReference[oaicite:16]{index=16}
+That matters for translation.
 
 ### 4. Public hype outruns evidentiary maturity
 
 This class is unusually vulnerable to consumerized overstatement, especially
 around probiotics, “gut reset” language, and FMT-style rejuvenation claims.
 
-The repository should stay more disciplined than the market. :contentReference[oaicite:17]{index=17}
+The repository should stay more disciplined than the market.
 
 ## Relevant Biomarker Readouts
 
@@ -295,7 +295,7 @@ microbiome movement is not enough.
 
 A changed stool profile without better function, lower burden, better barrier
 integrity, or better resilience should be treated as limited evidence, not
-proof of healthy-aging modification. :contentReference[oaicite:18]{index=18}
+proof of healthy-aging modification.
 
 ## Relevant Functional and Physiological Readouts
 
@@ -310,7 +310,7 @@ This intervention class should be judged on readouts such as:
 - long-term healthy-aging measures where available
 
 The current evidence base is still stronger on microbiome and inflammatory
-readouts than on broad, durable organism-level function. That gap matters. :contentReference[oaicite:19]{index=19}
+readouts than on broad, durable organism-level function. That gap matters.
 
 ## Translation Constraints
 
@@ -325,30 +325,30 @@ Major translation constraints include:
 - uneven regulatory and practical pathways for different intervention types
 
 This class is scientifically important.
-It is not simple to standardize or generalize. :contentReference[oaicite:20]{index=20}
+It is not simple to standardize or generalize.
 
 ## Relationship to the Rest of the Repository
 
 Microbiome-directed interventions connect directly to:
 
 **12_dysbiosis**  
-because dysbiosis is the hallmark-level reason this class matters. :contentReference[oaicite:21]{index=21}
+because dysbiosis is the hallmark-level reason this class matters.
 
 **11_chronic_inflammation**  
 because one of the clearest intervention goals here is reducing inflammatory
-burden through barrier and microbial-state improvement. :contentReference[oaicite:22]{index=22}
+burden through barrier and microbial-state improvement.
 
 **10_altered_intercellular_communication**  
 because host-microbe signaling is part of the organism’s broader communication
-environment. :contentReference[oaicite:23]{index=23}
+environment.
 
 **09_dietary_pattern_and_fasting_strategies**  
 because diet is one of the strongest long-term levers shaping microbiome
-ecology. :contentReference[oaicite:24]{index=24}
+ecology.
 
 **02_BIOMARKERS/03_inflammatory_and_immune_markers**  
 because immune and inflammatory panels are among the most usable human readouts
-for this class. :contentReference[oaicite:25]{index=25}
+for this class.
 
 **02_BIOMARKERS/06_functional_and_physiological_biomarkers**  
 because function must take precedence if microbiome biomarkers and organismal

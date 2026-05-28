@@ -27,7 +27,7 @@ These are not the same intervention.
 They share one core idea:
 
 the systemic environment carries pro-aging and pro-repair signals, and changing
-that environment may change aging biology. :contentReference[oaicite:0]{index=0}
+that environment may change aging biology.
 
 ## Why They Matter
 
@@ -38,12 +38,12 @@ Parabiosis experiments in animals showed that exposing old organisms to young
 circulation can improve aspects of tissue function, while exposure of young
 organisms to old circulation can worsen aging-related phenotypes. Recent
 reviews still treat that finding as one of the main reasons the field remains
-scientifically alive. :contentReference[oaicite:1]{index=1}
+scientifically alive.
 
 That does not mean “young blood reverses aging” is a validated human therapy.
 
 It means the circulating environment is biologically important, and
-interventions that alter it deserve serious evaluation. :contentReference[oaicite:2]{index=2}
+interventions that alter it deserve serious evaluation.
 
 ## Core Mechanism
 
@@ -59,7 +59,7 @@ The mechanistic logic of this class can work through several different routes:
 A central shift in the field is that the benefit of heterochronic parabiosis may
 come as much from dilution of pro-aging factors as from addition of youth
 factors. Recent reviews emphasize that this distinction matters for clinical
-translation. :contentReference[oaicite:3]{index=3}
+translation.
 
 ## Target Hallmarks
 
@@ -78,7 +78,7 @@ It may also influence:
 - tissue-specific regenerative decline
 
 This is best understood as a systemic-environment intervention class, not a
-single-hallmark intervention. :contentReference[oaicite:4]{index=4}
+single-hallmark intervention.
 
 ## Working View in This Repository
 
@@ -105,7 +105,7 @@ The core evidence base began with heterochronic parabiosis, in which young and
 old animals share circulation. Recent reviews continue to conclude that this
 model produces rejuvenating effects in multiple tissues in old animals, while
 also making clear that the responsible factors and mechanisms are still not
-fully resolved. :contentReference[oaicite:5]{index=5}
+fully resolved.
 
 ### 2. The field shifted from “young blood” to broader plasma-environment logic
 
@@ -114,19 +114,19 @@ More recent analysis is more critical and more precise: plasma dilution or
 exchange may help by reducing age-elevated harmful signals, not only by adding
 youthful ones. The 2026 GeroScience review explicitly frames clinical
 translation around this broader plasma-environment logic rather than simple
-young-blood mythology. :contentReference[oaicite:6]{index=6}
+young-blood mythology.
 
 ### 3. Human plasma-dilution and exchange studies now exist, but remain early
 
 A 2022 GeroScience study reported reduced biological-age signals after plasma
 dilution in humans, but the design was small and not sufficient to establish
-broad clinical anti-aging efficacy. :contentReference[oaicite:7]{index=7}
+broad clinical anti-aging efficacy.
 
 A later randomized placebo-controlled Therapeutic Plasma Exchange trial in 42
 adults over 50 reported that long-term TPE was generally safe in that study and
 improved multiple biological-age markers, with the TPE-IVIG arm showing the
 strongest molecular response. That is important signal, but it is still early,
-small, and biomarker-heavy rather than function-settling. :contentReference[oaicite:8]{index=8}
+small, and biomarker-heavy rather than function-settling.
 
 ### 4. Young plasma-derived fractions have early human immune-modulation signal
 
@@ -134,14 +134,14 @@ A 2025 randomized clinical trial in older adults undergoing major joint
 replacement found that a young-donor plasma protein fraction modulated immune
 and inflammatory responses to surgical injury. That is real translational signal,
 but it was not a general-aging efficacy trial and should not be read as proof
-of broad rejuvenation. :contentReference[oaicite:9]{index=9}
+of broad rejuvenation.
 
 ### 5. The field is now under stronger critical scrutiny
 
 Recent review work emphasizes that the main problems are no longer only whether
 circulating factors matter in principle, but which factors matter, whether
 dilution or replacement is the active ingredient, how durable the effects are,
-what populations benefit, and whether human functional benefit can be shown. :contentReference[oaicite:10]{index=10}
+what populations benefit, and whether human functional benefit can be shown.
 
 ## Evidence Standard
 
@@ -154,7 +154,7 @@ Current evidence level in this repository:
 - protocol relevance: not yet
 
 This intervention class should be treated as translationally active, but not as
-a validated longevity therapy. :contentReference[oaicite:11]{index=11}
+a validated longevity therapy.
 
 ## Major Intervention Classes Within This File
 
@@ -177,7 +177,7 @@ Limits:
 - some published trials involve conflicts of interest and need replication
 
 This repository treats TPE as one of the most serious translational routes in
-the class, while still keeping it below protocol readiness. :contentReference[oaicite:12]{index=12}
+the class, while still keeping it below protocol readiness.
 
 ### 2. Young plasma or young plasma-derived fractions
 
@@ -196,7 +196,7 @@ Limits:
   mechanism at all
 
 This repository treats young-plasma logic as scientifically interesting, but not
-as the leading translational answer. :contentReference[oaicite:13]{index=13}
+as the leading translational answer.
 
 ### 3. Identified circulating-factor replacement or depletion
 
@@ -217,7 +217,7 @@ Limits:
 
 This repository treats targeted circulating-factor manipulation as the most
 elegant long-term form of the class, but currently the least mature in
-translation. :contentReference[oaicite:14]{index=14}
+translation.
 
 ## Key Risks and Tradeoffs
 
@@ -226,33 +226,33 @@ translation. :contentReference[oaicite:14]{index=14}
 A major unresolved issue is whether benefit comes mainly from removing harmful
 age-elevated factors, adding beneficial factors, changing albumin balance, or
 some combination of these. That ambiguity matters because it changes how the
-intervention should be designed. :contentReference[oaicite:15]{index=15}
+intervention should be designed.
 
 ### 2. Biomarker-heavy studies can outrun functional evidence
 
 This class is especially vulnerable to molecular enthusiasm. Biological-age
 markers, proteomics, and immune signatures may improve while durable functional
-benefit remains uncertain. :contentReference[oaicite:16]{index=16}
+benefit remains uncertain.
 
 ### 3. Procedure burden is real
 
 Therapeutic plasma exchange is not a trivial intervention. It is physically
 burdensome, resource-intensive, and clinically more demanding than most
 supplement-style longevity interventions. That matters for translation even if
-biology is promising. :contentReference[oaicite:17]{index=17}
+biology is promising.
 
 ### 4. Durability is unclear
 
 One of the core open questions is whether benefits, if real, persist or fade.
 Recent expert commentary around the 2025 TPE study explicitly raised the
-possibility that effects may be temporary rather than durable. :contentReference[oaicite:18]{index=18}
+possibility that effects may be temporary rather than durable.
 
 ### 5. Population fit probably matters
 
 The 2025 TPE trial suggested stronger response in participants with poorer
 baseline health status. That may mean the class works better as burden
 reduction in higher-risk systems than as a broad intervention for already
-high-functioning adults. :contentReference[oaicite:19]{index=19}
+high-functioning adults.
 
 ## Relevant Biomarker Readouts
 
@@ -271,7 +271,7 @@ biomarker movement is not enough.
 
 A younger clock or a shifted proteomic profile without better resilience,
 function, or recovery should be treated as limited evidence, not proof of
-rejuvenation. :contentReference[oaicite:20]{index=20}
+rejuvenation.
 
 ## Relevant Functional and Physiological Readouts
 
@@ -286,7 +286,7 @@ This intervention class should be judged on readouts such as:
 - long-term maintenance of function
 
 The current evidence base is more convincing on immune modulation and clock-like
-signals than on durable broad functional rejuvenation. That gap matters. :contentReference[oaicite:21]{index=21}
+signals than on durable broad functional rejuvenation. That gap matters.
 
 ## Translation Constraints
 
@@ -302,29 +302,29 @@ Major translation constraints include:
 - commercial hype ahead of consensus
 
 This intervention class is scientifically important.
-It is not operationally settled. :contentReference[oaicite:22]{index=22}
+It is not operationally settled.
 
 ## Relationship to the Rest of the Repository
 
 Plasma exchange and circulating-factor interventions connect directly to:
 
 **10_altered_intercellular_communication**  
-because this class tries to change the organismal signaling environment itself. :contentReference[oaicite:23]{index=23}
+because this class tries to change the organismal signaling environment itself.
 
 **11_chronic_inflammation**  
-because inflammatory burden is one of the clearest targets and readout domains. :contentReference[oaicite:24]{index=24}
+because inflammatory burden is one of the clearest targets and readout domains.
 
 **08_cellular_senescence**  
 because senescence-associated secretory factors are part of the burden this
-class may reduce. :contentReference[oaicite:25]{index=25}
+class may reduce.
 
 **02_BIOMARKERS/03_inflammatory_and_immune_markers**  
 because immune and inflammatory panels are among the strongest human readouts
-currently available here. :contentReference[oaicite:26]{index=26}
+currently available here.
 
 **02_BIOMARKERS/05_proteomic_and_multiomic_clocks**  
 because this class is especially likely to be judged through multi-omic
-signatures and age-model shifts. :contentReference[oaicite:27]{index=27}
+signatures and age-model shifts.
 
 **02_BIOMARKERS/06_functional_and_physiological_biomarkers**  
 because function must take precedence if biomarker signal and organismal

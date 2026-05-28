@@ -28,7 +28,7 @@ In aging, chronic inflammation can involve:
 - ongoing tissue-remodeling signals
 - immune-metabolic dysregulation
 
-The problem is not only that inflammatory signals are present. The problem is that inflammatory tone becomes chronically mis-set. :contentReference[oaicite:1]{index=1}
+The problem is not only that inflammatory signals are present. The problem is that inflammatory tone becomes chronically mis-set.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ When inflammatory tone remains persistently elevated:
 - fibrosis and degeneration can advance
 - disease vulnerability rises
 
-This is one reason chronic inflammation sits near the center of aging biology. It is not only a consequence of aging. Once established, it becomes an active amplifier of further aging. :contentReference[oaicite:2]{index=2}
+This is one reason chronic inflammation sits near the center of aging biology. It is not only a consequence of aging. Once established, it becomes an active amplifier of further aging.
 
 ## Working View in This Repository
 
@@ -61,7 +61,7 @@ Working interpretation:
 - highly relevant to age-related disease burden
 - one of the most translationally important hallmarks in the framework
 
-This repository treats chronic inflammation as one of the clearest cross-hallmark burden multipliers in aging. :contentReference[oaicite:3]{index=3}
+This repository treats chronic inflammation as one of the clearest cross-hallmark burden multipliers in aging.
 
 ## Key Mechanisms
 
@@ -71,13 +71,13 @@ Aging is associated with chronic activation of innate immune pathways even witho
 
 This can be driven by damaged cells, mitochondrial signals, senescent-cell burden, dysbiosis, and accumulated endogenous danger signals.
 
-The result is a background inflammatory state that becomes harder to turn off. :contentReference[oaicite:4]{index=4}
+The result is a background inflammatory state that becomes harder to turn off.
 
 ### 2. Resolution Failure
 
 A major part of chronic inflammation is not excessive initiation alone. It is failure of proper resolution.
 
-Signals that should quiet down after repair or threat clearance can remain active too long, allowing inflammatory burden to become chronic rather than adaptive. :contentReference[oaicite:5]{index=5}
+Signals that should quiet down after repair or threat clearance can remain active too long, allowing inflammatory burden to become chronic rather than adaptive.
 
 ### 3. Senescence-Linked Inflammatory Burden
 
@@ -85,7 +85,7 @@ Senescent cells contribute inflammatory mediators through the SASP.
 
 This means chronic inflammation is partly a communication problem and partly a cell-burden problem.
 
-Persistent senescent-cell accumulation can therefore sustain inflammaging even when the original trigger is no longer central. :contentReference[oaicite:6]{index=6}
+Persistent senescent-cell accumulation can therefore sustain inflammaging even when the original trigger is no longer central.
 
 ### 4. Immune System Remodeling
 
@@ -93,13 +93,13 @@ Inflammaging is closely linked to immunosenescence.
 
 The immune system becomes less effective at some protective functions while also becoming more prone to dysregulated inflammatory output.
 
-This creates a pattern where immune function is both weaker and noisier. :contentReference[oaicite:7]{index=7}
+This creates a pattern where immune function is both weaker and noisier.
 
 ### 5. Metabolic and Tissue Feedback Loops
 
 Chronic inflammation interacts with metabolic dysfunction, altered lipid handling, mitochondrial stress, and tissue remodeling.
 
-Once those loops are established, inflammatory tone can remain elevated even without one dominant upstream trigger. :contentReference[oaicite:8]{index=8}
+Once those loops are established, inflammatory tone can remain elevated even without one dominant upstream trigger.
 
 ## Relationship to Other Hallmarks
 
@@ -108,28 +108,28 @@ Chronic inflammation is deeply entangled with the rest of the aging network.
 ### Connected hallmarks include:
 
 **Cellular senescence**  
-Senescent cells are major contributors to chronic inflammatory signaling through the SASP. :contentReference[oaicite:9]{index=9}
+Senescent cells are major contributors to chronic inflammatory signaling through the SASP.
 
 **Mitochondrial dysfunction**  
-Damaged mitochondria can release inflammatory signals and worsen redox imbalance, while inflammation can further damage mitochondrial quality. :contentReference[oaicite:10]{index=10}
+Damaged mitochondria can release inflammatory signals and worsen redox imbalance, while inflammation can further damage mitochondrial quality.
 
 **Deregulated nutrient sensing**  
-Metabolic-state dysregulation and chronic inflammation reinforce each other, especially through insulin resistance and broader immune-metabolic disturbance. :contentReference[oaicite:11]{index=11}
+Metabolic-state dysregulation and chronic inflammation reinforce each other, especially through insulin resistance and broader immune-metabolic disturbance.
 
 **Stem cell exhaustion**  
-Inflammatory burden can degrade stem-cell niches and reduce regenerative capacity. :contentReference[oaicite:12]{index=12}
+Inflammatory burden can degrade stem-cell niches and reduce regenerative capacity.
 
 **Altered intercellular communication**  
-Inflammation is one major signaling distortion inside the broader intercellular-communication hallmark, but the 2023 framework treats it as important enough to stand separately. :contentReference[oaicite:13]{index=13}
+Inflammation is one major signaling distortion inside the broader intercellular-communication hallmark, but the 2023 framework treats it as important enough to stand separately.
 
 **Genomic instability**  
-DNA damage can activate inflammatory pathways, and chronic inflammation can worsen damage pressure through oxidative and signaling stress. :contentReference[oaicite:14]{index=14}
+DNA damage can activate inflammatory pathways, and chronic inflammation can worsen damage pressure through oxidative and signaling stress.
 
 **Telomere attrition**  
-Telomere dysfunction can trigger inflammatory responses, while chronic inflammatory burden may accelerate telomere erosion. :contentReference[oaicite:15]{index=15}
+Telomere dysfunction can trigger inflammatory responses, while chronic inflammatory burden may accelerate telomere erosion.
 
 **Dysbiosis**  
-Microbiome disruption is one of the emerging contributors to inflammaging through barrier dysfunction, altered metabolites, and immune activation. :contentReference[oaicite:16]{index=16}
+Microbiome disruption is one of the emerging contributors to inflammaging through barrier dysfunction, altered metabolites, and immune activation.
 
 ## Biomarker and Measurement Options
 
@@ -155,7 +155,7 @@ Limitations:
 - systemic blood markers may not capture the most important local tissue inflammation
 - one cytokine does not equal total inflammatory burden
 
-This repository treats chronic inflammation as measurable only through layered interpretation rather than one decisive number. :contentReference[oaicite:17]{index=17}
+This repository treats chronic inflammation as measurable only through layered interpretation rather than one decisive number.
 
 ## Candidate Intervention Directions
 
@@ -167,21 +167,21 @@ Chronic inflammation is one of the most translationally relevant hallmarks in th
 - reduce chronic tissue damage signals
 - address dysbiosis and barrier dysfunction where relevant
 
-This matters because chronic inflammation is often sustained by persistent upstream burden rather than one isolated inflammatory pathway. :contentReference[oaicite:18]{index=18}
+This matters because chronic inflammation is often sustained by persistent upstream burden rather than one isolated inflammatory pathway.
 
 ### 2. Immune-resolution support
 The goal is not to suppress all inflammation.
 
-The better goal is to reduce chronic, non-resolving inflammatory tone while preserving necessary host defense and repair signaling. :contentReference[oaicite:19]{index=19}
+The better goal is to reduce chronic, non-resolving inflammatory tone while preserving necessary host defense and repair signaling.
 
 ### 3. Metabolic-state improvement
-Because inflammaging is tightly linked to immune-metabolic dysfunction, interventions that improve metabolic stability may reduce inflammatory burden indirectly. :contentReference[oaicite:20]{index=20}
+Because inflammaging is tightly linked to immune-metabolic dysfunction, interventions that improve metabolic stability may reduce inflammatory burden indirectly.
 
 ### 4. Senotherapeutic strategies
-Senolytics and senomorphics may matter here because reducing SASP burden could improve inflammatory tone across tissues. :contentReference[oaicite:21]{index=21}
+Senolytics and senomorphics may matter here because reducing SASP burden could improve inflammatory tone across tissues.
 
 ### 5. Anti-inflammatory therapeutic approaches
-Targeted anti-inflammatory interventions are being studied in age-related disease contexts, but this should not be treated as a solved anti-aging strategy. Specificity, timing, and tradeoffs matter. :contentReference[oaicite:22]{index=22}
+Targeted anti-inflammatory interventions are being studied in age-related disease contexts, but this should not be treated as a solved anti-aging strategy. Specificity, timing, and tradeoffs matter.
 
 ## Constraints and Cautions
 
@@ -196,7 +196,7 @@ Important cautions:
 - inflammation often reflects deeper upstream burden
 - lowering one marker does not automatically restore systemic health
 
-This is not a hallmark where “block inflammation” is a complete framework. :contentReference[oaicite:23]{index=23}
+This is not a hallmark where “block inflammation” is a complete framework.
 
 ## Current Assessment
 
