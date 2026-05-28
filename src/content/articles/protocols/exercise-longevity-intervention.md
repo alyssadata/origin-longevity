@@ -5,7 +5,7 @@ topic: protocols
 readTime: "8 min read"
 updated: "May 2026"
 draft: false
-featured: false
+featured: true
 ---
 
 ## Exercise as a Longevity Intervention
