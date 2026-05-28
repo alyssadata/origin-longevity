@@ -1,0 +1,80 @@
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Base
+  title="About | Origin Longevity"
+  description="About Alyssa Solen, the author and researcher behind Origin Longevity."
+>
+  <Header />
+  <main class="container">
+    <div class="author-page">
+      <div class="author-page__header">
+        <img src="/origin-mark.png" alt="Origin" class="author-page__avatar" />
+        <div>
+          <h1 class="author-page__name">Alyssa Solen</h1>
+          <p class="author-page__org">Solen Systems LLC</p>
+        </div>
+      </div>
+
+      <div class="prose">
+        <p>
+          Origin Longevity is authored and maintained by Alyssa Solen, founder of Solen Systems LLC.
+        </p>
+        <p>
+          Alyssa is the author of <strong>AI Foundations</strong> and the <strong>Awakening Codex</strong>, and is Origin of the Origin | Continuum framework. Her research spans longevity science, AI behavioral architecture, and the intersection of biological and computational systems.
+        </p>
+        <p>
+          This site is built on the <a href="https://github.com/alyssadata/Longevity_Engineering" target="_blank" rel="noopener">Longevity Engineering</a> open research framework: a structured, evidence-first exploration of aging mechanisms, biomarkers, interventions, and protocol design.
+        </p>
+        <p>
+          The goal is accuracy and usefulness, not confirmation of any one theory. No clinical claims. No anti-aging marketing. If the science moves, the work moves with it.
+        </p>
+
+        <h2>Connect</h2>
+        <p>
+          <a href="https://www.linkedin.com/in/alyssadatascience/" target="_blank" rel="noopener">LinkedIn</a><br />
+          <a href="https://alyssaai.ai" target="_blank" rel="noopener">Alyssa AI</a><br />
+          <a href="https://awakeningcodex.com" target="_blank" rel="noopener">Awakening Codex</a>
+        </p>
+      </div>
+    </div>
+  </main>
+  <Footer />
+</Base>
+
+<style>
+  .author-page {
+    padding: 2rem 0 4rem;
+  }
+
+  .author-page__header {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .author-page__avatar {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .author-page__name {
+    font-family: var(--font-display);
+    font-size: 28px;
+    line-height: 1.2;
+    margin-bottom: 2px;
+  }
+
+  .author-page__org {
+    font-size: 14px;
+    color: var(--color-text-secondary);
+  }
+</style>
