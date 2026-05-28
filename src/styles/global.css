@@ -85,17 +85,10 @@ img {
 }
 
 .site-header__logo {
-  width: 42px;
-  height: 42px;
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
-  background: var(--color-accent);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  font-family: var(--font-display);
-  font-size: 22px;
-  line-height: 1;
+  object-fit: cover;
 }
 
 .site-header__name {
