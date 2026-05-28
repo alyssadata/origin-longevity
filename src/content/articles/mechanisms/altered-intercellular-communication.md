@@ -1,3 +1,5 @@
+THIS IS A TEST LINE - DELETE ME LATER
+
 ---
 title: "Altered intercellular communication: when the signals break down"
 description: "How aging disrupts hormonal, immune, and paracrine signaling between cells, spreading dysfunction systemically."
